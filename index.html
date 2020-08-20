@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="hebrew">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Tamar Maly - CV</title>
+  <link rel="Tab icon" href="https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-circle-512.png">
+
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+ 
+  <!--My Icons-->	
+  <link href="css\Icons.css" rel="stylesheet">
+  <!-- My SkillBar -->
+  <link href="css\skillBar.css" rel="stylesheet">
+  <!--My LengugesBar-->	
+  <link href="css\lenguges.css" rel="stylesheet"> 
+  <!--My Tooltip-->	
+  <link href="css\tooltip.css" rel="stylesheet">
+  <style>
+    table, th, td {
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 5px;
+	  vertical-align: top;
+    }
+    th {
+      text-align: left;
+    }
+</style>
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Tamar Maly</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img\profile.png" alt="picture of me">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#aotumationproject">Aotumation Project</a>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills" >Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#volunteering">Volunteering</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#militrayService">Militry Service</a>
+        </li>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#languages">LANGUAGES</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+	
+	<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Tamar
+          <span class="text-primary">Maly</span>
+        </h1>
+        <div class="subheading mb-5">&nbsp; Tel-Aviv · 054-9876321 ·
+          <a href="mailto:TamarMaly@gmail.com">TamarMaly@gmail.com</a>
+        </div>
+        <p class="lead mb-5"><b>Highly talented QA testing engineer experienced in automation testing using Selenium</b>
+		<br> Expertise of JAVA, HTML, CSS, SQL and writing test documentation STP,STD,STR
+		<br> Ability to plan and execute E2E automated testing of large and complex systems
+		<br>
+		<br> ▪️ Excellent interpersonal communication
+		<br> ▪️ Motivated, assertive and highly articulated
+		<br> ▪️ Rapid self-learning, creative thinking and the ability to withstand pressure
+		<br> ▪️ Extensive experience working with clients
+		<br> ▪️ Motivating teams to meet objectives and procedures
+		<br> ▪️ High level of human relations. Ability to listen. Fully committed to the workplace
+		</p>
+		
+
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/tamar-maly/" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a href="https://github.com/TamarMaly?tab=projects">
+            <i class="fab fa-github"></i>
+          </a>
+		  <a href="Doc_CV\Tamar Maly CV.docx" download="Tamar Maly CV">
+            <i class="fas fa-file-word"></i>
+          </a>
+		  
+		  
+        </div>
+      </div>
+    </section>
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="aotumationproject">
+      <div class="w-100">
+        <h2 class="mb-5">Aotumation Project</h2>
+        <p class="mb-0">
+			<font size="5"> Automation project on the website  <b>iHerb</b>
+			<br> "The World's Best Valued Website of Your Favorite Vitamins, Supplements & Much More"
+			<br>
+			<br> <b> The goal </b> of my project is to examine an existing website, explore its structure and test different aspects of the website
+			<br>
+			<br> <b> The technologies used in the project </b> 
+			<br>
+			<ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+                <img class="icon-html" src="icons\html-5.svg" alt="html-icon" title="HTML5">
+          </li>
+          <li class="list-inline-item">
+				<img class="icon-css" src="icons\css3.svg" alt="css-icon" title="CSS">
+          </li>
+          <li class="list-inline-item">
+				<img class="icon-java" src="icons\java2.svg" alt="java-icon" title="JAVA">
+		  </li>	
+		  <li class="list-inline-item">
+				<img class="icon-selenium" src="icons\selenium.svg" alt="selenium-icon" title="SELENIUM">
+		  </li>
+		  </ul>
+ 		  
+		  <div style="text-align:center"> 
+          <button onclick="playPause()">Play/Pause</button> 
+          <button onclick="makeBig()">Big</button>
+          <button onclick="makeSmall()">Small</button>
+          <button onclick="makeNormal()">Normal</button>
+          <br><br>
+          <video id="video1" width="720">
+          <source src="video\tc31_E2EBuyFromProductsPage.mp4" type="video/mp4">
+          <source src="video\tc31_E2EBuyFromProductsPage.ogg" type="video/ogg">
+           Your browser does not support HTML video.
+           </video> 
+		   </div> 
+
+           <script> 
+           var myVideo = document.getElementById("video1"); 
+
+           function playPause() { 
+              if (myVideo.paused) 
+                 myVideo.play(); 
+              else 
+                 myVideo.pause(); 
+              } 
+
+             function makeBig() { 
+                 myVideo.width = 860; 
+              } 
+
+             function makeSmall() { 
+                 myVideo.width = 560; 
+              } 
+
+             function makeNormal() { 
+                 myVideo.width = 720; 
+              } 
+            </script> 
+			
+			<br>
+			
+			<div style="text-align:center"> 
+          <button onclick="playPause1()">Play/Pause</button> 
+          <button onclick="makeBig1()">Big</button>
+          <button onclick="makeSmall1()">Small</button>
+          <button onclick="makeNormal1()">Normal</button>
+          <br><br>
+          <video id="video2" width="720">
+          <source src="video\tc32_E2EChangeSettings.mp4" type="video/mp4">
+          <source src="video\tc32_E2EChangeSettings.ogg" type="video/ogg">
+           Your browser does not support HTML video.
+           </video> 
+		   </div> 
+			 <script> 
+           var myVideo1 = document.getElementById("video2"); 
+
+           function playPause1() { 
+              if (myVideo1.paused) 
+                 myVideo1.play(); 
+              else 
+                 myVideo1.pause(); 
+              } 
+
+             function makeBig1() { 
+                 myVideo1.width = 860; 
+              } 
+
+             function makeSmall1() { 
+                 myVideo1.width = 560; 
+              } 
+
+             function makeNormal1() { 
+                 myVideo1.width = 720; 
+              } 
+            </script> 
+
+            <br> <b> The Structure </b> of my project - 
+			<br> ▪️ Login 
+			<br> ▪️ User info 
+			<br> ▪️ Account settings
+			<br> ▪️ Search 
+			<br> ▪️ Cart 
+			<br> ▪️ E2E </font>
+			<br>
+			<br>
+			<div class="social-icons">
+			<a href="https://github.com/TamarMaly?tab=projects">
+            <i class="fab fa-github"></i>
+            </a>
+			<a href="Doc_CV\Tamar Maly CV.docx" download="Tamar Maly CV">
+            <i class="fas fa-file-word"></i>
+			</a>
+			</div>
+		</p>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Manual QA Engineer - Web & Mobile testing </h3>
+            <div class="subheading mb-3">Qualitest Group - Elbit Systems Ltd</div>
+            <p>Manual QA on a communication application. Mobile and Web testing. 
+               <br> Replacing the Team Lead when needed. 
+               <br> Managing professionally the QA team members in Ukraine  </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">February 2018 - July 2019</span>
+          </div>
+        </div>
+		<div class="subheading mb-3">My Responsibilities</div>
+		<ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Testing the app on many different models of mobile phones and different OS on the web</li>
+		  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Network testing on all ends of the product </li>
+				
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Active professional team leader to the QA team members in Ukraine, going over their work, correcting and teaching them new methods</li>	
+          
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+      		    Reorganizing and renewing the entire testing unit including methodology and writing tests, designing the testing of new versions and added abilities to the app </li>
+			  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Using Jira to manage tests and other testing tools for Mobile & Web tests including automating and recording tests</li>	
+			
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Agile environment, working closely with the developers, product team, help desk and designers of the app</li>
+				
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Executing UI/UX, Functional, E2E, Regression and Sanity testing </li>			
+			
+        </ul>
+		
+		<br>
+		<br>
+		<br>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Manual QA Engineer - Web & Mobile testing </h3>
+            <div class="subheading mb-3">uTest</div>
+            <p> Manual Web & Mobile QA - Freelancer from home
+                <br> Functional testing on apps and websites, scanning for bugs and issues
+				<br> Usability testing, a full report of my proffesional opinion on a given test object</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">April 2017 - February 2018</span>
+          </div>
+        </div>
+		<div class="subheading mb-3">Projects - </div>
+		<ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+				ISSTA – mobile web/app</li>
+		  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Mako -  mobile  </li>
+				
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Isracard - mobile</li>			
+			
+        </ul>
+		
+		<br>
+		<br>
+		<br>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Team Leader at the Network Operations Center </h3>
+            <div class="subheading mb-3">888holdings</div>
+            <p>keeping the NOC ready and running 24/7 </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2016 - February 2017</span>
+          </div>
+        </div>
+		<div class="subheading mb-3">My Responsibilities</div>
+		<ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Keeping projects on track: planning, scheduling, coordinating with R&D resources</li>
+		  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Identifying and analyzing trends of players </li>
+				
+        </ul>
+		
+		<br>
+		<br>
+		<br>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Team Leader at Network Operations Center and System Administrator</h3>
+            <div class="subheading mb-3">Office of the Prime Minister of Israel</div>
+            <p>Manual QA on a communication application. Mobile and Web testing. 
+               <br> Replacing the Team Lead when needed. 
+               <br> Managing professionally the QA team members in Ukraine  </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">October 2008 - 2016</span>
+          </div>
+        </div>
+		<div class="subheading mb-3">My Responsibilities</div>
+		<ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Inception and implementation of new SOPs and introducing the team to new technologies</li>
+		  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				keeping the NOC ready and running 24/7 and running the after-hours helpdesk </li>
+				
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Running, training and helping to grow a team of up to 12 people</li>	
+          
+          <li>
+            <i class="fa-li fas fa-check-square"></i>
+      		    Keeping projects on track: planning, scheduling, coordinating with R&D resources </li>
+			  
+		  <li>
+            <i class="fa-li fas fa-check-square"></i>
+				Side projects on loan to other teams:</li>	
+			
+		  <li>           
+				○ Analyst at the Big Data team, mission: helping train an indexing and retrieval system (2013)</li>
+				
+		  <li>            
+				○ Assisting a Data Clearing team to transfer data between classified networks in complex cases (2012) </li>			
+			
+        </ul>
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Automation Course</h3>
+            <div class="subheading mb-3">automation.co.il / Gal Matalon</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">March 2020</span>
+          </div>
+        </div>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Foundation Certificate in Software Testing</h3>
+            <div class="subheading mb-3">ISTQB</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2018</span>
+          </div>
+        </div>
+		
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Software testing course</h3>
+            <div class="subheading mb-3">John Bryce</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2017</span>
+          </div>
+        </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+	
+      <div class="w-100">
+        <h2 class="mb-3">Skills</h2>
+		
+        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+                <img class="icon-html" src="icons\html-5.svg" alt="html-icon" title="HTML5">
+          </li>
+          <li class="list-inline-item">
+				<img class="icon-css" src="icons\css3.svg" alt="css-icon" title="CSS">
+          </li>
+          <li class="list-inline-item">
+				<img class="icon-java" src="icons\java2.svg" alt="java-icon" title="JAVA">
+		  </li>	
+		  <li class="list-inline-item">
+				<img class="icon-selenium" src="icons\selenium.svg" alt="selenium-icon" title="SELENIUM">
+		  </li>
+			<li class="list-inline-item">
+			    <img class="icon-postman" src="icons\postman.svg" alt="postman-icon" title="POSTMAN">
+			</li>	
+		  <li class="list-inline-item">
+			    <img class="icon-selenium" src="icons\SQL.svg" alt="SQL-icon" title="SQL">
+			</li>
+          <li class="list-inline-item">
+			    <img class="icon-selenium" src="icons\Eclipse.svg" alt="Eclipse-icon" title="Eclipse">
+			</li>	
+
+        <br>			
+		<br>	
+		
+        </ul>
+		
+		<div class="subheading mb-3">Skills</div>		
+		<table style="width:100%">
+		<ul>
+        <tr>
+           <th>Languages</th>
+           <th>Tools</th>
+           <th>Operating systems</th>
+		   <th>Interpersonal</th>
+        </tr>
+        <tr>
+           <td>
+              <li>JAVA</li>
+              <li>HTML</li>
+              <li>CSS</li>
+			  <li>SQL</li>
+		   </td>
+		   <td>
+              <li>Selenium</li>
+			  <li>JIRA</li>
+              <li>Eclipse</li>
+              <li>Postman</li>
+			  <li>HP QC</li>
+			  <li>QTP</li>
+		   </td>
+		   <td>
+              <li>Windows</li>
+              <li>Linux</li>
+		   </td>
+		   <td>
+              <li>Team Leadership</li>
+              <li>Employee Training</li>
+			  <li>Teamwork</li>
+			  <li>Customer Service and Support</li>
+		   </td>
+        </tr>
+		</ul>
+        </table>
+		
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="volunteering">
+      <div class="w-100">
+        <h2 class="mb-5">Volunteer Experience</h2>
+        <p class="mb-0">
+			<div class="resume-date text-md-right">
+            <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img\dogs.jpg" alt="picture of the group" style="float:right;width:450px;height:300px;">
+            </div>
+			<font size="5"> Group administrator at <b>Maltese Lovers Israel</b>
+			<br> A dog welfare Facebook group and a thriving community
+			<br> ❤️ Hosts at home lost\unwanted dogs, helps to find them new homes
+			<br> ❤️ Arrange large scale group meetings and fundraising </font>
+			<br>
+			<br>
+			<br>
+			<div class="social-icons">
+			<a href="https://www.facebook.com/groups/malteselovers/">
+            <i class="fab fa-facebook-f"></i>
+            </a>
+			</div>
+		</p>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section  class="resume-section p-3 p-lg-5 d-flex align-items-center" id="militrayService">
+      <div class="w-100">
+        <h2 class="mb-5">Militry Service</h2>
+		<div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Intelligence Officer</h3>
+            <div class="subheading mb-3">Office of the Prime Minister of Israel</div>
+			<br>
+			<div class="subheading mb-3">▪️ Mandatory military service as analyst
+            <br> ▪️ Main tasks: data retrieval and summarization</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">February 2004 - February 2004</span>
+          </div>
+        </div>
+      </div>
+	  <br>		  
+		  
+	      
+    </section>
+	
+	<hr class="m-0">
+	
+	
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="languages">
+      <div class="w-100">
+          <h2 class="mb-5">LANGUAGES</h2>
+		
+			<div>HEBREW</div>	
+				<div class="container1 subheading mb-3 line1 hebrew">100%</div>
+			<div>ENGLISH</div>
+				<div class="container1 subheading mb-3 line1 english">95%</div> 			
+      </div>
+    </section>
+	
+
+		
+	  
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
