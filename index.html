@@ -113,13 +113,13 @@
 
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/tamar-maly/" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
+            <img class="icon-postman" src="icons\linkedin.svg" alt="linkedin-icon" title="linkedin">
           </a>
           <a href="https://github.com/TamarMaly?tab=projects">
-            <i class="fab fa-github"></i>
+            <img class="icon-postman" src="icons\github.svg" alt="github-icon" title="github">
           </a>
 		  <a href="Doc_CV\Tamar Maly CV.docx" download="Tamar Maly CV">
-            <i class="fas fa-file-word"></i>
+            <img class="icon-postman" src="icons\pdf.svg" alt="pdf-icon" title="pdf">
           </a>
 		  
 		  
@@ -237,10 +237,10 @@
 			<br>
 			<div class="social-icons">
 			<a href="https://github.com/TamarMaly?tab=projects">
-            <i class="fab fa-github"></i>
+            <img class="icon-postman" src="icons\github.svg" alt="github-icon" title="github">
             </a>
 			<a href="Doc_CV\Tamar Maly CV.docx" download="Tamar Maly CV">
-            <i class="fas fa-file-word"></i>
+             <img class="icon-postman" src="icons\pdf.svg" alt="pdf-icon" title="pdf">
 			</a>
 			</div>
 		</p>
@@ -537,7 +537,7 @@
 			<br>
 			<div class="social-icons">
 			<a href="https://www.facebook.com/groups/malteselovers/">
-            <i class="fab fa-facebook-f"></i>
+             <img class="icon-postman" src="icons\facebook.svg" alt="facebook-icon" title="facebook">
             </a>
 			</div>
 		</p>
